@@ -1,0 +1,2 @@
+# LearnErlang
+Erlang Language QAQ🎈
